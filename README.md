@@ -10,7 +10,7 @@
 
 Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-Nesse projeto desenvolvemos uma aplicação de carrinho de compras, onde foi práticado o desenvolvimento orientado a testes, o famoso TDD (Test Driven Development).
+Nesse projeto desenvolvi uma aplicação de carrinho de compras, onde foi práticado o desenvolvimento orientado a testes, o famoso TDD (Test Driven Development).
 
 <br />
 
